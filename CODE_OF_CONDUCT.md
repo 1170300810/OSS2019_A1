@@ -34,11 +34,11 @@ Inappropriate/unacceptable behavior is anything hurtful that interferes with oth
 
 ## Reporting
 
-Repository maintainers reserve the right to remove offensive content. To report inappropriate behavior, you can also contact [events@esri.com](mailto:events@esri.com).
+Repository maintainers reserve the right to remove offensive content. To report inappropriate behavior, you can also contact [596576152@qq.com](mailto:596576152@.com).
 
 ## Consequences
 
 Violations of this Code of Conduct may result in:
   * Disqualification from 1170300810 Events and Conferences
-  * Being blocked from Esri's [GitHub Organization](https://help.github.com/articles/blocking-a-user-from-your-organization/)
+  * Being blocked from 1170300810's [GitHub Organization](https://help.github.com/articles/blocking-a-user-from-your-organization/)
 
