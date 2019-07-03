@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 29 22:44:52 CST 2019
+jcommon-1.0.24-sources.jar>central=
+jcommon-1.0.24.jar>central=
+jcommon-1.0.24.pom>central=
